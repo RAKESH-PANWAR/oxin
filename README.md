@@ -1,0 +1,2 @@
+# oxin
+static website
